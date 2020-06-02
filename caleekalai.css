@@ -1,0 +1,41 @@
+﻿body
+{
+    background-color:lightblue;
+}
+
+h1
+{
+    color:navy;
+    margin-left:20px;
+
+}
+
+.testclass
+{
+    color:red;
+    font-size:300%;
+}
+
+p
+{
+    text-align:center;
+    color:red;
+}
+
+#para
+{
+    text-align:center;
+    color:red;
+}
+
+
+.center
+{
+    text-align:center;
+    color:red;
+}
+
+div
+{
+    height:50px;width:100%;
+}
